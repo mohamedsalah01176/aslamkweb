@@ -7,7 +7,7 @@
 // Scripts
 // 
 
-window.open.href='#portfolio'
+// window.location.href='#portfolio'
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function

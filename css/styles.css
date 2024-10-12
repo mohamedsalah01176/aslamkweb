@@ -392,7 +392,21 @@ button:not(:disabled),
 [type=submit]:not(:disabled) {
   cursor: pointer;
 }
+.fa-whatsapp{
+  padding: 15px;
+  border-radius: 50%;
+  background-color: #10715e;
+  color: white;
+  font-size: 33px;
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  transition: .3s;
+}
+.fa-whatsapp:hover{
+  background-color: #1caf92;
 
+}
 ::-moz-focus-inner {
   padding: 0;
   border-style: none;
